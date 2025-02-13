@@ -6,3 +6,6 @@ xhofe/alist
 apache/doris:build-env-ldb-toolchain-latest
 weejewel/wg-easy:latest
 mysql:8.0.32
+clickhouse/clickhouse-server:latest
+clickhouse/clickhouse-keeper:latest
+contentsquareplatform/chproxy:v1.26.4
