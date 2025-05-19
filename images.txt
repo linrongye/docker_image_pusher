@@ -9,4 +9,4 @@ xhofe/alist
 clickhouse/clickhouse-server:24.12.4
 clickhouse/clickhouse-keeper:24.12.4
 contentsquareplatform/chproxy:v1.26.4
-bitnami/kafka:2.8.2
+bitnami/kafka:2.8.1-debian-11-r7
